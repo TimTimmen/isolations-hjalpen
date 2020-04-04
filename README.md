@@ -9,3 +9,5 @@ Run ```npm run start``` to start a local webserver. It prints the URL to visit i
 
 ## To deploy
 You need access, ask Erik Larsson to deploy to heroku
+
+hello from tim
